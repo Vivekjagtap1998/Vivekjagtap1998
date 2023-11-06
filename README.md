@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivekjagtap1998&label=Profile%20views&color=0e75b6&style=flat" alt="vivekjagtap1998" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://6548b04f17130a0136ac7f14--vocal-daffodil-c0f1eb.netlify.app/](https://6548b04f17130a0136ac7f14--vocal-daffodil-c0f1eb.netlify.app/)
+- 👨‍💻 All of my projects are available at [http://bit.ly/3FNWxii)
 
 - 📫 How to reach me **jagtapvivek2023@gmail.com**
 
